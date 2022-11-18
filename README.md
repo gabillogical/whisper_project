@@ -2,6 +2,6 @@
 ## An analysis of potential biases in Whisper
 
 ### Summary
-[Introduction] (# introduction)
+[Introduction](# introduction)
 
 ### Introduction
