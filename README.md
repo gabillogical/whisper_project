@@ -1,2 +1,2 @@
 # whisper_project
-An analysis of potential biases in Whisper
+## An analysis of potential biases in Whisper
