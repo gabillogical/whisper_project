@@ -1511,7 +1511,6 @@ age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_mis
 29,5,"katmandu, nepal",newari1,newari,male,707,nepal,FALSE,,,
 41,15,"bota, cameroon",ngemba1,ngemba,male,581,cameroon,FALSE,,,
 63,6,"bamenda, cameroon",ngemba2,ngemba,female,1871,cameroon,FALSE,,,
-41,15,"bilwi, puerto cabezas, nicaragua",nicaragua,nicaragua,male,2084,nicaragua,FALSE,,,
 33,10,"drammen, norway",norwegian1,norwegian,female,272,norway,FALSE,,,
 55,12,"oslo, norway",norwegian2,norwegian,female,273,norway,FALSE,,,
 19,5,"volda, norway",norwegian3,norwegian,male,274,norway,FALSE,,,
